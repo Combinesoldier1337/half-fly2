@@ -1,5 +1,5 @@
 # half-fly2
-Small video game about aircrafts (Work in progress) 
+Small videogame about aircrafts (Work in progress) 
 Screenshots:
 ![Снимок экрана (208)](https://user-images.githubusercontent.com/60045146/193033082-3e0273e5-f2b3-4a39-acb1-22b07c17b430.png)
 ![Снимок экрана (209)](https://user-images.githubusercontent.com/60045146/193033094-497c6b6b-4a0c-4d39-975a-315246c4058e.png)
